@@ -12,8 +12,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-//   organizationName: 'your-username', // 👈 GitHub username
-//   projectName: 'mylyzer-docs',       // 👈 GitHub repo name
+  organizationName: 'Mylyzer', // 👈 GitHub username
+  projectName: 'mylyzer-docs',       // 👈 GitHub repo name
 
   i18n: {
     defaultLocale: 'fa',
