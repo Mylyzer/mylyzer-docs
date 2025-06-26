@@ -7,7 +7,7 @@
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "deploy": "docusaurus deploy",
+    "deploy": "set GIT_USER=Mylyzer && docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve"
   },
