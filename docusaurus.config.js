@@ -6,7 +6,9 @@ const config = {
   tagline: 'راهنمای کامل استفاده از ربات تحلیل‌گر مشتری',
   url: 'https://Mylyzer.github.io',
   baseUrl: '/mylyzer-docs/',
-
+  
+  deploymentBranch: 'gh-pages',
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
