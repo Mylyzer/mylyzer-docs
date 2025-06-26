@@ -4,7 +4,7 @@
 const config = {
   title: 'Mylyzer مستندات',
   tagline: 'راهنمای کامل استفاده از ربات تحلیل‌گر مشتری',
-  url: 'https://YOUR_USERNAME.github.io',
+  url: 'https://Mylyzer.github.io',
   baseUrl: '/mylyzer-docs/',
 
 
