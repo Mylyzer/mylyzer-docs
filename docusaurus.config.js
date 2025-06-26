@@ -4,20 +4,16 @@
 const config = {
   title: 'Mylyzer مستندات',
   tagline: 'راهنمای کامل استفاده از ربات تحلیل‌گر مشتری',
-  url: 'https://Mylyzer.github.io',
+  url: 'https://YOUR_USERNAME.github.io',
   baseUrl: '/mylyzer-docs/',
-  organizationName: 'Mylyzer',
-  projectName: 'mylyzer-docs',
-  deploymentBranch: 'gh-pages',
-  trailingSlash: true,
 
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-//   organizationName: 'your-username', // 👈 GitHub username
-//   projectName: 'mylyzer-docs',       // 👈 GitHub repo name
+  organizationName: 'Mylyzer', // 👈 GitHub username
+  projectName: 'mylyzer-docs',       // 👈 GitHub repo name
 
   i18n: {
     defaultLocale: 'fa',
