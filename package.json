@@ -2,6 +2,8 @@
   "name": "mylyzer-docs",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://Mylyzer.github.io/mylyzer-docs",
+
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",

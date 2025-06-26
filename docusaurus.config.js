@@ -4,8 +4,12 @@
 const config = {
   title: 'Mylyzer مستندات',
   tagline: 'راهنمای کامل استفاده از ربات تحلیل‌گر مشتری',
-    url: 'http://localhost:3000',
-    baseUrl: '/',
+  url: 'https://Mylyzer.github.io',
+  baseUrl: '/mylyzer-docs/',
+  organizationName: 'Mylyzer',
+  projectName: 'mylyzer-docs',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: true,
 
 
   onBrokenLinks: 'throw',
