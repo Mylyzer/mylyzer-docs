@@ -2,7 +2,7 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const config = {
-  title: 'Mylyzer مستندات',
+  title: 'Mylyzer docs',
   tagline: 'راهنمای کامل استفاده از ربات تحلیل‌گر مشتری',
   url: 'https://Mylyzer.github.io',
   baseUrl: '/mylyzer-docs/',
