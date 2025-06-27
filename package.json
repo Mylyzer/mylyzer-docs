@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "private": true,
   "homepage": "https://Mylyzer.github.io/mylyzer-docs",
-
+  
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "deploy": "set GIT_USER=Mylyzer && docusaurus deploy",
+    "deploy": "cmd /C \"set GIT_USER=Mylyzer && docusaurus deploy\"",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve"
   },
