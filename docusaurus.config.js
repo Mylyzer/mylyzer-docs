@@ -7,7 +7,7 @@ const config = {
   url: 'https://Mylyzer.github.io',
   baseUrl: '/mylyzer-docs/',
   
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   trailingSlash: true,
 
   onBrokenLinks: 'throw',
