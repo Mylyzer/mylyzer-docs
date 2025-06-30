@@ -8,13 +8,6 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 
-if (typeof window !== 'undefined') {
-  const auth = localStorage.getItem('auth');
-  if (auth !== 'true') {
-    window.location.href = '/lock.html';
-  }
-}
-
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
